@@ -1,4 +1,3 @@
-# CNN-Inference-Pipeline
 # ECE 284 — Final Project Deliverables
 
 ![Folder structure preview](images/folder_structure.svg)

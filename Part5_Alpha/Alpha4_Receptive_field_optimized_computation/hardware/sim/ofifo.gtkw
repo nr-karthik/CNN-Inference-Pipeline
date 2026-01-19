@@ -1,0 +1,65 @@
+[*]
+[*] GTKWave Analyzer v3.3.118 (w)1999-2023 BSI
+[*] Sun Dec 14 00:55:58 2025
+[*]
+[dumpfile] "/home/linux/ieng6/ECE284_FA25_A00/n7kumar/systolic_array/core_tb.vcd"
+[dumpfile_mtime] "Sun Dec 14 00:25:41 2025"
+[dumpfile_size] 2803938
+[savefile] "/home/linux/ieng6/ECE284_FA25_A00/n7kumar/systolic_array/ofifo.gtkw"
+[timestart] 167620
+[size] 1280 561
+[pos] -51 -1
+*-13.000000 185350 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] core_tb.
+[treeopen] core_tb.dut.
+[treeopen] core_tb.dut.CORELET_inst.
+[treeopen] core_tb.dut.CORELET_inst.GEN_SFU_COL[0].
+[treeopen] core_tb.dut.CORELET_inst.mac_array_inst.row_num[8].
+[treeopen] core_tb.dut.CORELET_inst.mac_array_inst.row_num[8].mac_row_instance.
+[treeopen] core_tb.dut.CORELET_inst.mac_array_inst.row_num[8].mac_row_instance.col_num[1].
+[treeopen] core_tb.dut.CORELET_inst.mac_array_inst.row_num[8].mac_row_instance.col_num[1].mac_tile_instance.
+[treeopen] core_tb.dut.CORELET_inst.OFIFO_inst.
+[treeopen] core_tb.dut.CORELET_inst.OFIFO_inst.col_num[0].
+[treeopen] core_tb.dut.gen_psum_srams[0].
+[sst_width] 321
+[signals_width] 318
+[sst_expanded] 1
+[sst_vpaned_height] 138
+@28
+core_tb.clk
+@22
+core_tb.dut.CORELET_inst.L0_inst.out[31:0]
+@420
+core_tb.dut.CORELET_inst.mac_array_inst.row_num[8].mac_row_instance.col_num[1].mac_tile_instance.mac_output[31:0]
+@22
+core_tb.dut.CORELET_inst.OFIFO_inst.col_num[0].fifo_instance.in[31:0]
+core_tb.dut.CORELET_inst.OFIFO_inst.col_num[0].fifo_instance.out[31:0]
+core_tb.dut.gen_psum_srams[0].sram_psum_mem1.D[31:0]
+core_tb.dut.gen_psum_srams[0].sram_psum_mem2.A[10:0]
+@420
+core_tb.dut.gen_psum_srams[0].sram_psum_mem2.D[31:0]
+core_tb.dut.CORELET_inst.OFIFO_inst.col_num[0].fifo_instance.out[31:0]
+core_tb.dut.CORELET_inst.GEN_SFU_COL[0].u_sfu.psum_buf[31:0]
+@22
+core_tb.dut.CORELET_inst.GEN_SFU_COL[0].u_sfu.psum_mem[31:0]
+core_tb.dut.psum_to_sfu_q[255:0]
+core_tb.dut.psum_to_sfu[255:0]
+@28
+core_tb.dut.psum_to_sfu_mem1
+core_tb.dut.psum_to_sfu_mem2
+core_tb.dut.rchip
+@29
+core_tb.dut.CORELET_inst.GEN_SFU_COL[0].u_sfu.valid
+@22
+core_tb.dut.gen_psum_srams[0].sram_psum_mem2.D[31:0]
+@28
+core_tb.dut.gen_psum_srams[0].sram_psum_mem2.CEN
+core_tb.dut.gen_psum_srams[0].sram_psum_mem2.WEN
+core_tb.dut.gen_psum_srams[0].sram_psum_mem1.WEN
+core_tb.dut.gen_psum_srams[0].sram_psum_mem1.CEN
+@22
+core_tb.dut.gen_psum_srams[0].sram_psum_mem1.Q[31:0]
+@420
+core_tb.dut.gen_psum_srams[0].sram_psum_mem2.D[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
